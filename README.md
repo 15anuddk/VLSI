@@ -24,4 +24,15 @@
 
 ![sr latch](https://github.com/15anuddk/VLSI/assets/116000404/08bd3cce-45e3-47d0-94b7-492ca4482e94)
 
+## sr-flipflop
+
+![SR_flipflop](https://github.com/15anuddk/VLSI/assets/116000404/faf4269e-c73a-430b-8a1f-6086970b24e9)
+
+## jk-flipflop
+
+![JK_flipflop](https://github.com/15anuddk/VLSI/assets/116000404/ae7e7be6-e3e8-4b3e-8415-1b99083de503)
+
+## D-flipflop
+
+![d-flipflop](https://github.com/15anuddk/VLSI/assets/116000404/437ed2b0-0f41-4e07-a048-e0f539eae5eb)
 
